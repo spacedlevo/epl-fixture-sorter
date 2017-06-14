@@ -14,7 +14,7 @@ Therefore it will require two arguments;
 * page_id which is the id of the page with the fixtures on, needed to complete the URL
 * season this variable will be used to create a folder to keep the fixtures seperated into seasons
 
-'''python download_fixtures.py [page_id] [season]'''
+`python download_fixtures.py [page_id] [season]`
 
 Place the script where you will want the fixtures downloaded. The script will then create a folder for fixtures and then season where the text files will be held.
 

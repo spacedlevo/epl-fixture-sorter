@@ -14,6 +14,8 @@ Therefore it will require two arguments;
 * page_id which is the id of the page with the fixtures on, needed to complete the URL
 * season this variable will be used to create a folder to keep the fixtures seperated into seasons
 
+For the latest season the page id is 408956
+
 ```
 python download_fixtures.py [page_id] [season]
 ```
